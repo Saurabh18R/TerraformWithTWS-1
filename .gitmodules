@@ -1,0 +1,3 @@
+[submodule "terraform-aws"]
+	path = terraform-aws
+	url = https://github.com/Saurabh18R/TerraformWithTWS-1.git
